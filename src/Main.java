@@ -3,7 +3,6 @@ public class Main {
         public class Car {
             // Araç türü (SUV, Sedan, Hatchback)
             private String type;
-            // Kiralama şekli (gunluk, aylik)
             private String rentalPeriod;
             // Vatandaş veya şirket
             private String customerType;
